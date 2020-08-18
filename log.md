@@ -1,7 +1,6 @@
 # 100 Days Of Code - Beth's Log
 
 ### Day 0: August 18, 2020
-##### (delete me or comment me out)
 
 **Intentions**: Prioritize what all I need to work on to update portfolio and to move my projects to AWS.
 
@@ -26,7 +25,6 @@
 **Link to work:** 
 
 ### Day 1: August 19, 2020
-##### (delete me or comment me out)
 
 **Today's Progress**: My plan is to work on an old project that is currently broke due to npm issues.
 
