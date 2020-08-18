@@ -1,29 +1,45 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Beth's Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: August 18, 2020
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Intentions**: Prioritize what all I need to work on to update portfolio and to move my projects to AWS.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Skills I would like to strengthen**:
+    React
+    Express
+    Swift
+    MongoDB
+    SwiftUI
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Would like to learn**:
+    Docker
+    AWS
+    PostgreSQL
+    Figma
+    UI/UX Design
 
-### Day 0: February 30, 2016 (Example 2)
+**Today's Progress**: Setup training calendar. Identified areas I want to work on.
+
+**Thoughts:** I really struggled with 
+
+**Link to work:** 
+
+### Day 1: August 19, 2020
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: My plan is to work on an old project that is currently broke due to npm issues.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I really struggled with 
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 2: August 20, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I've recently started 
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
