@@ -12,7 +12,7 @@
 
 **Today's Progress**: Setup training calendar. Identified areas I want to work on.
 
-**Thoughts:** I really struggled with 
+**Thoughts:** I'm really excited to tackle this challenge & see where I'm at in 100 days!
 
 <!-- **Link to work:**  -->
 
