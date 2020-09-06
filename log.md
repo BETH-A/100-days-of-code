@@ -193,11 +193,11 @@ Vid - [Update-CSS-VariablesWithJS] - (https://drive.google.com/file/d/1-opnDKGw1
 
 **Working On**:  Edabit.com challenges - 5 challenges, Prentus Project - convert CSS variables to SASS variables, add template for Dockerrun.aws.json file, added Apple OAuth2.0 script to index.html & started setting up project on Apple Developer Portal.  
 
-**Today's Progress**: 
+**Today's Progress**: I worked on the @Prentus project I'm the PM for, converting CSS variables into SASS variables and added a template for the Dockerrun.aws.json file. We are planning to incorporate a few OAuth2.0 options for register/login, so I started the setup to add Sign in with Apple to the project by adding the required script to the index.html file & setting up the project on Apple Developer Portal. I also Completed 3 @Edabit JS challenges. 
 
-**Thoughts**: 
+**Thoughts**: Can't complete the Apple OAuth until we have a domain setup for the project.
 
-**Code**: Repo - [React-docker] (https://github.com/BETH-A/docker-react) 
+**Code**: 
 
 ### Day 19: September 6, 2020
 
